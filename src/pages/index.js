@@ -7,7 +7,7 @@ import YourDocument from "../components/YourDocument.js";
 export default function App() {
   return (
     <VeltProvider apiKey="j3AwoBkuQMTEgeqrmPve">
-      <VeltComments/>
+      <VeltComments priority={true}/>
       <VeltHuddle/>
       <div className="flex w-screen justify-center">
         <YourDocument />
