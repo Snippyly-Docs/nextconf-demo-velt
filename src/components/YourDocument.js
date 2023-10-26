@@ -60,7 +60,7 @@ export default function YourDocument() {
         </div>
   
   
-            <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
+            <a href="https://vercel.com/new/clone?repository-url=https://github.com/Snippyly-Docs/nextconf-demo-velt"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
       </div>
     </div>
   </div>
