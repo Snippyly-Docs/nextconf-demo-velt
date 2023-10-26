@@ -24,7 +24,7 @@ export default function YourDocument() {
     <div class="relative flex w-[40rem] flex-col justify-center overflow-hidden rounded-lg bg-[#404040] bg-opacity-30 py-32">
         
         <div className="mb-[64px] flex justify-center">
-            <VeltPresence/>
+            <VeltPresence flockMode={true}/>
         </div>
        <div class="flex flex-col items-center">
             <YourAuthComponent/>
